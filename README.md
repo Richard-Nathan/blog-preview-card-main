@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL here](https://your-solution-url.com)
+- Solution URL: [ solution URL here](https://www.frontendmentor.io/solutions/card-solution-with-some-css-flexbox-and-basics-css-and-html-Jw_gt1GqJj)
 - Live Site URL: [ live site URL here](https://richard-nth.github.io/blog-preview-card-main/)
 
 ## My process
