@@ -59,7 +59,7 @@ I want to continue learing more about flexbox and grid(which i probably will sta
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Richard-Nth)
+- Frontend Mentor - [@Richard-Nth](https://www.frontendmentor.io/profile/Richard-Nth)
 
 
 
